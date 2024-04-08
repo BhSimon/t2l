@@ -4,6 +4,6 @@ The Tach2Locked board converts a fan’s tachometer signal to a ‘locked rotor�
 ## STFU model: DIP switch settings
 The DIP switches on the STFU (Shut The Fan Up) model control the max speed of the fan, in the same way as Noctua’s Low Noise Adapter (LNA). There are four settings:
 
-<img src="https://github.com/BhSimon/t2l/assets/7036461/f8fdfabb-38df-4c7e-a513-b46d52522d90" width="200">
+<img src="https://github.com/BhSimon/t2l/assets/7036461/d9693deb-debc-414a-9e6a-ad9bd1a0a299" width="200">
 
 **Caution!** You *must* be very careful when using settings lower than 100%. You will reduce the cooling capabilities of the switch and this could result in overheating and permanent damage. If you have a PoE switch, but you do not have any PoE devices, then it may be possible to reduce the fan speed safely, but it is not guaranteed.
