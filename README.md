@@ -1,4 +1,4 @@
-# Lock de Tach
+# Tach-2-Lock
 The *Lock de Tach* board converts a fan’s tachometer signal to a ‘locked rotor’ signal. The locked rotor signal is typically an active-low signal which is triggered when the fan is rotating. If the signal on this line is not 0V, it indicates that the fan is not running. Typical consumer fans such as Noctua’s use a tachometer signal, which pulses to indicate the speed of the fan. This board converts that signal to the active-low locked rotor signal.
 
 ## STFU model: DIP switch settings
