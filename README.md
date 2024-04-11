@@ -5,6 +5,6 @@ The *Lock de Tach* board converts a fan’s tachometer signal to a ‘locked rot
 The DIP switches on the STFU (Shut The Fan Up) model control the max speed of the fan, which has the same effect as the Low Noise Adapter (LNA) and Ultra Low Noise Adapter (ULNA) cables. There are four settings:
 
 ### Max fan speed
-<img src="https://github.com/BhSimon/t2l/assets/7036461/fee4110c-0b83-4ec3-960a-a5002a5b4ba9" width="200">
+<img src="https://github.com/BhSimon/t2l/assets/7036461/cb711dcd-84df-41cc-bbf3-1e3b8bd3ac1e" width="200">
 
 **Caution!** You *must* be very careful when using settings lower than 100%. You will reduce the cooling capabilities of the switch and this could result in overheating and permanent damage. If you have a PoE switch, but you do not have any PoE devices, then it may be possible to reduce the fan speed safely, but it is not guaranteed.
