@@ -7,4 +7,4 @@ The DIP switches on the STFU (Shut The Fan Up) model control the max speed of th
 ### Max fan speed
 <img src="https://github.com/BhSimon/t2l/assets/7036461/cb711dcd-84df-41cc-bbf3-1e3b8bd3ac1e" width="200">
 
-**Caution!** You *must* be very careful when using settings lower than 100%. You will reduce the cooling capabilities of the system and this could result in overheating and permanent damage. If you have a PoE switch, but you do not have any PoE devices, then it may be possible to reduce the fan speed safely, but it is not guaranteed.
+**Caution!** You *must* be very careful when using settings lower than 100%. You will reduce the cooling capabilities of the system and this could result in overheating and permanent damage. If you have a PoE switch, but you do not have any PoE devices in use, then it may be possible to reduce the fan speed safely, but it is not guaranteed.
